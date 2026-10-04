@@ -1,0 +1,555 @@
+{
+ "version": 1,
+ "scores": [
+  {
+   "name": "가시고기사랑",
+   "title": "가시고기사랑",
+   "key": "Ab",
+   "part": 1,
+   "file": "가시고기사랑-Ab.pdf",
+   "type": "pdf",
+   "sizeBytes": 587363,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EA%B0%80%EC%8B%9C%EA%B3%A0%EA%B8%B0%EC%82%AC%EB%9E%91-Ab.pdf"
+  },
+  {
+   "name": "그 사람 이름은 잊었지만",
+   "title": "그 사람 이름은 잊었지만",
+   "key": "Ebm",
+   "part": 1,
+   "file": "그 사람 이름은 잊었지만-Ebm.pdf",
+   "type": "pdf",
+   "sizeBytes": 456587,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EA%B7%B8%20%EC%82%AC%EB%9E%8C%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EC%9E%8A%EC%97%88%EC%A7%80%EB%A7%8C-Ebm.pdf"
+  },
+  {
+   "name": "그대안의 블루",
+   "title": "그대안의 블루",
+   "key": "E",
+   "part": 1,
+   "file": "그대안의 블루-E.pdf",
+   "type": "pdf",
+   "sizeBytes": 612894,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EA%B7%B8%EB%8C%80%EC%95%88%EC%9D%98%20%EB%B8%94%EB%A3%A8-E.pdf"
+  },
+  {
+   "name": "그리움은 가슴마다",
+   "title": "그리움은 가슴마다",
+   "key": "Gm",
+   "part": 1,
+   "file": "그리움은 가슴마다-Gm.pdf",
+   "type": "pdf",
+   "sizeBytes": 513795,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EA%B7%B8%EB%A6%AC%EC%9B%80%EC%9D%80%20%EA%B0%80%EC%8A%B4%EB%A7%88%EB%8B%A4-Gm.pdf"
+  },
+  {
+   "name": "그집앞",
+   "title": "그집앞",
+   "key": "",
+   "part": 1,
+   "file": "그집앞.jpeg",
+   "type": "image",
+   "sizeBytes": 351068,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EA%B7%B8%EC%A7%91%EC%95%9E.jpeg"
+  },
+  {
+   "name": "기다리는 마음",
+   "title": "기다리는 마음",
+   "key": "Am",
+   "part": 1,
+   "file": "기다리는 마음-Am.pdf",
+   "type": "pdf",
+   "sizeBytes": 437844,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%8A%94%20%EB%A7%88%EC%9D%8C-Am.pdf"
+  },
+  {
+   "name": "기억해줘",
+   "title": "기억해줘",
+   "key": "Bm",
+   "part": 1,
+   "file": "기억해줘-Bm.pdf",
+   "type": "pdf",
+   "sizeBytes": 630779,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EA%B8%B0%EC%96%B5%ED%95%B4%EC%A4%98-Bm.pdf"
+  },
+  {
+   "name": "기억해줘 (2)",
+   "title": "기억해줘",
+   "key": "Bm",
+   "part": 2,
+   "file": "기억해줘-Bm-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 201701,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EA%B8%B0%EC%96%B5%ED%95%B4%EC%A4%98-Bm-2.pdf"
+  },
+  {
+   "name": "난 행복해",
+   "title": "난 행복해",
+   "key": "F",
+   "part": 1,
+   "file": "난 행복해-F.pdf",
+   "type": "pdf",
+   "sizeBytes": 627925,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%82%9C%20%ED%96%89%EB%B3%B5%ED%95%B4-F.pdf"
+  },
+  {
+   "name": "난 행복해 (2)",
+   "title": "난 행복해",
+   "key": "F",
+   "part": 2,
+   "file": "난 행복해-F-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 323443,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%82%9C%20%ED%96%89%EB%B3%B5%ED%95%B4-F-2.pdf"
+  },
+  {
+   "name": "내장산",
+   "title": "내장산",
+   "key": "Eb",
+   "part": 1,
+   "file": "내장산-Eb.pdf",
+   "type": "pdf",
+   "sizeBytes": 524777,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%82%B4%EC%9E%A5%EC%82%B0-Eb.pdf"
+  },
+  {
+   "name": "내장산 (2)",
+   "title": "내장산",
+   "key": "Eb",
+   "part": 2,
+   "file": "내장산-Eb-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 321218,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%82%B4%EC%9E%A5%EC%82%B0-Eb-2.pdf"
+  },
+  {
+   "name": "닐리리야",
+   "title": "닐리리야",
+   "key": "",
+   "part": 1,
+   "file": "닐리리야.jpeg",
+   "type": "image",
+   "sizeBytes": 646315,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%8B%90%EB%A6%AC%EB%A6%AC%EC%95%BC.jpeg"
+  },
+  {
+   "name": "들녁 길에서",
+   "title": "들녁 길에서",
+   "key": "Bbm",
+   "part": 1,
+   "file": "들녁 길에서-Bbm.pdf",
+   "type": "pdf",
+   "sizeBytes": 525166,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%93%A4%EB%85%81%20%EA%B8%B8%EC%97%90%EC%84%9C-Bbm.pdf"
+  },
+  {
+   "name": "들녁 길에서",
+   "title": "들녁 길에서",
+   "key": "Gm",
+   "part": 1,
+   "file": "들녁 길에서-Gm.pdf",
+   "type": "pdf",
+   "sizeBytes": 562918,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%93%A4%EB%85%81%20%EA%B8%B8%EC%97%90%EC%84%9C-Gm.pdf"
+  },
+  {
+   "name": "명탐정 코난 그대가 있다면",
+   "title": "명탐정 코난 그대가 있다면",
+   "key": "",
+   "part": 1,
+   "file": "명탐정+코난+그대가+있다면 (1).pdf",
+   "type": "pdf",
+   "sizeBytes": 165901,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%AA%85%ED%83%90%EC%A0%95%2B%EC%BD%94%EB%82%9C%2B%EA%B7%B8%EB%8C%80%EA%B0%80%2B%EC%9E%88%EB%8B%A4%EB%A9%B4%20%281%29.pdf"
+  },
+  {
+   "name": "목포의 눈물",
+   "title": "목포의 눈물",
+   "key": "Gm",
+   "part": 1,
+   "file": "목포의 눈물-Gm.pdf",
+   "type": "pdf",
+   "sizeBytes": 515535,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%AA%A9%ED%8F%AC%EC%9D%98%20%EB%88%88%EB%AC%BC-Gm.pdf"
+  },
+  {
+   "name": "바람의 소원",
+   "title": "바람의 소원",
+   "key": "Ab",
+   "part": 1,
+   "file": "바람의 소원-Ab-1.pdf",
+   "type": "pdf",
+   "sizeBytes": 590189,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%B0%94%EB%9E%8C%EC%9D%98%20%EC%86%8C%EC%9B%90-Ab-1.pdf"
+  },
+  {
+   "name": "바람의 소원 (2)",
+   "title": "바람의 소원",
+   "key": "Ab",
+   "part": 2,
+   "file": "바람의 소원-Ab-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 384429,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%B0%94%EB%9E%8C%EC%9D%98%20%EC%86%8C%EC%9B%90-Ab-2.pdf"
+  },
+  {
+   "name": "바람이 분다",
+   "title": "바람이 분다",
+   "key": "G",
+   "part": 1,
+   "file": "바람이 분다-G.pdf",
+   "type": "pdf",
+   "sizeBytes": 741467,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%B0%94%EB%9E%8C%EC%9D%B4%20%EB%B6%84%EB%8B%A4-G.pdf"
+  },
+  {
+   "name": "바람이 분다 (2)",
+   "title": "바람이 분다",
+   "key": "G",
+   "part": 2,
+   "file": "바람이 분다-G-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 344615,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%B0%94%EB%9E%8C%EC%9D%B4%20%EB%B6%84%EB%8B%A4-G-2.pdf"
+  },
+  {
+   "name": "비 내리는 명동거리",
+   "title": "비 내리는 명동거리",
+   "key": "Db",
+   "part": 1,
+   "file": "비 내리는 명동거리-Db.pdf",
+   "type": "pdf",
+   "sizeBytes": 476469,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EB%B9%84%20%EB%82%B4%EB%A6%AC%EB%8A%94%20%EB%AA%85%EB%8F%99%EA%B1%B0%EB%A6%AC-Db.pdf"
+  },
+  {
+   "name": "섬마을 선생님",
+   "title": "섬마을 선생님",
+   "key": "Db",
+   "part": 1,
+   "file": "섬마을 선생님-Db.pdf",
+   "type": "pdf",
+   "sizeBytes": 493248,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%84%AC%EB%A7%88%EC%9D%84%20%EC%84%A0%EC%83%9D%EB%8B%98-Db.pdf"
+  },
+  {
+   "name": "수 은 등",
+   "title": "수 은 등",
+   "key": "Eb",
+   "part": 1,
+   "file": "수 은 등-Eb.pdf",
+   "type": "pdf",
+   "sizeBytes": 563432,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%88%98%20%EC%9D%80%20%EB%93%B1-Eb.pdf"
+  },
+  {
+   "name": "수덕사의 여승",
+   "title": "수덕사의 여승",
+   "key": "Fm",
+   "part": 1,
+   "file": "수덕사의 여승-Fm.pdf",
+   "type": "pdf",
+   "sizeBytes": 443606,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%88%98%EB%8D%95%EC%82%AC%EC%9D%98%20%EC%97%AC%EC%8A%B9-Fm.pdf"
+  },
+  {
+   "name": "숨",
+   "title": "숨",
+   "key": "Eb",
+   "part": 1,
+   "file": "숨-Eb.pdf",
+   "type": "pdf",
+   "sizeBytes": 645692,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%88%A8-Eb.pdf"
+  },
+  {
+   "name": "숨 (2)",
+   "title": "숨",
+   "key": "Eb",
+   "part": 2,
+   "file": "숨-Eb-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 628201,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%88%A8-Eb-2.pdf"
+  },
+  {
+   "name": "애국가",
+   "title": "애국가",
+   "key": "D",
+   "part": 1,
+   "file": "애국가-D.pdf",
+   "type": "pdf",
+   "sizeBytes": 299949,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%95%A0%EA%B5%AD%EA%B0%80-D.pdf"
+  },
+  {
+   "name": "야생화",
+   "title": "야생화",
+   "key": "Ab",
+   "part": 1,
+   "file": "야생화-Ab.pdf",
+   "type": "pdf",
+   "sizeBytes": 644789,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%95%BC%EC%83%9D%ED%99%94-Ab.pdf"
+  },
+  {
+   "name": "야생화 (2)",
+   "title": "야생화",
+   "key": "Ab",
+   "part": 2,
+   "file": "야생화-Ab-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 517198,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%95%BC%EC%83%9D%ED%99%94-Ab-2.pdf"
+  },
+  {
+   "name": "여정",
+   "title": "여정",
+   "key": "Ab",
+   "part": 1,
+   "file": "여정-Ab.pdf",
+   "type": "pdf",
+   "sizeBytes": 405149,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%97%AC%EC%A0%95-Ab.pdf"
+  },
+  {
+   "name": "울면서 후회하네",
+   "title": "울면서 후회하네",
+   "key": "Ab",
+   "part": 1,
+   "file": "울면서 후회하네-Ab.pdf",
+   "type": "pdf",
+   "sizeBytes": 553238,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%9A%B8%EB%A9%B4%EC%84%9C%20%ED%9B%84%ED%9A%8C%ED%95%98%EB%84%A4-Ab.pdf"
+  },
+  {
+   "name": "응어리",
+   "title": "응어리",
+   "key": "Fm",
+   "part": 1,
+   "file": "응어리-Fm.pdf",
+   "type": "pdf",
+   "sizeBytes": 514273,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%9D%91%EC%96%B4%EB%A6%AC-Fm.pdf"
+  },
+  {
+   "name": "이누야샤OST [시대를 초월한 마음]",
+   "title": "이누야샤OST [시대를 초월한 마음]",
+   "key": "Am",
+   "part": 1,
+   "file": "이누야샤OST [시대를 초월한 마음]-Am.jpg",
+   "type": "image",
+   "sizeBytes": 68926,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%9D%B4%EB%88%84%EC%95%BC%EC%83%A4OST%20%5B%EC%8B%9C%EB%8C%80%EB%A5%BC%20%EC%B4%88%EC%9B%94%ED%95%9C%20%EB%A7%88%EC%9D%8C%5D-Am.jpg"
+  },
+  {
+   "name": "인진강",
+   "title": "인진강",
+   "key": "Gm",
+   "part": 1,
+   "file": "인진강-Gm.pdf",
+   "type": "pdf",
+   "sizeBytes": 370701,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%9D%B8%EC%A7%84%EA%B0%95-Gm.pdf"
+  },
+  {
+   "name": "일편단심 민들레야",
+   "title": "일편단심 민들레야",
+   "key": "Fm",
+   "part": 1,
+   "file": "일편단심 민들레야-Fm.pdf",
+   "type": "pdf",
+   "sizeBytes": 561340,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%9D%BC%ED%8E%B8%EB%8B%A8%EC%8B%AC%20%EB%AF%BC%EB%93%A4%EB%A0%88%EC%95%BC-Fm.pdf"
+  },
+  {
+   "name": "일편단심 민들레야 (2)",
+   "title": "일편단심 민들레야",
+   "key": "Fm",
+   "part": 2,
+   "file": "일편단심 민들레야-Fm-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 267711,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%9D%BC%ED%8E%B8%EB%8B%A8%EC%8B%AC%20%EB%AF%BC%EB%93%A4%EB%A0%88%EC%95%BC-Fm-2.pdf"
+  },
+  {
+   "name": "잊지 말기로 해",
+   "title": "잊지 말기로 해",
+   "key": "F",
+   "part": 1,
+   "file": "잊지 말기로 해-F.pdf",
+   "type": "pdf",
+   "sizeBytes": 624568,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%9E%8A%EC%A7%80%20%EB%A7%90%EA%B8%B0%EB%A1%9C%20%ED%95%B4-F.pdf"
+  },
+  {
+   "name": "잊지 말기로 해 (2)",
+   "title": "잊지 말기로 해",
+   "key": "F",
+   "part": 2,
+   "file": "잊지 말기로 해-F-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 555330,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%9E%8A%EC%A7%80%20%EB%A7%90%EA%B8%B0%EB%A1%9C%20%ED%95%B4-F-2.pdf"
+  },
+  {
+   "name": "처음 느낌 그대로",
+   "title": "처음 느낌 그대로",
+   "key": "Ab",
+   "part": 1,
+   "file": "처음 느낌 그대로-Ab.pdf",
+   "type": "pdf",
+   "sizeBytes": 611167,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%B2%98%EC%9D%8C%20%EB%8A%90%EB%82%8C%20%EA%B7%B8%EB%8C%80%EB%A1%9C-Ab.pdf"
+  },
+  {
+   "name": "처음 느낌 그대로 (2)",
+   "title": "처음 느낌 그대로",
+   "key": "Ab",
+   "part": 2,
+   "file": "처음 느낌 그대로-Ab-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 271902,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%B2%98%EC%9D%8C%20%EB%8A%90%EB%82%8C%20%EA%B7%B8%EB%8C%80%EB%A1%9C-Ab-2.pdf"
+  },
+  {
+   "name": "천년 바위",
+   "title": "천년 바위",
+   "key": "Cm",
+   "part": 1,
+   "file": "천년 바위-Cm.pdf",
+   "type": "pdf",
+   "sizeBytes": 581601,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%B2%9C%EB%85%84%20%EB%B0%94%EC%9C%84-Cm.pdf"
+  },
+  {
+   "name": "천년 바위 (2)",
+   "title": "천년 바위",
+   "key": "Cm",
+   "part": 2,
+   "file": "천년 바위-Cm-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 181724,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%B2%9C%EB%85%84%20%EB%B0%94%EC%9C%84-Cm-2.pdf"
+  },
+  {
+   "name": "청혼",
+   "title": "청혼",
+   "key": "E",
+   "part": 1,
+   "file": "청혼-E.pdf",
+   "type": "pdf",
+   "sizeBytes": 686879,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%B2%AD%ED%98%BC-E.pdf"
+  },
+  {
+   "name": "청혼 (2)",
+   "title": "청혼",
+   "key": "E",
+   "part": 2,
+   "file": "청혼-E-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 260990,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%B2%AD%ED%98%BC-E-2.pdf"
+  },
+  {
+   "name": "커피 블루스",
+   "title": "커피 블루스",
+   "key": "Cm",
+   "part": 1,
+   "file": "커피 블루스-Cm.pdf",
+   "type": "pdf",
+   "sizeBytes": 531005,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%EC%BB%A4%ED%94%BC%20%EB%B8%94%EB%A3%A8%EC%8A%A4-Cm.pdf"
+  },
+  {
+   "name": "한많은 대동강",
+   "title": "한많은 대동강",
+   "key": "Cm",
+   "part": 1,
+   "file": "한많은 대동강-Cm.pdf",
+   "type": "pdf",
+   "sizeBytes": 543783,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%95%9C%EB%A7%8E%EC%9D%80%20%EB%8C%80%EB%8F%99%EA%B0%95-Cm.pdf"
+  },
+  {
+   "name": "한많은 대동강 (2)",
+   "title": "한많은 대동강",
+   "key": "Cm",
+   "part": 2,
+   "file": "한많은 대동강-Cm-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 267003,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%95%9C%EB%A7%8E%EC%9D%80%20%EB%8C%80%EB%8F%99%EA%B0%95-Cm-2.pdf"
+  },
+  {
+   "name": "홀로아리랑",
+   "title": "홀로아리랑",
+   "key": "Eb",
+   "part": 1,
+   "file": "홀로아리랑-Eb.pdf",
+   "type": "pdf",
+   "sizeBytes": 564294,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%99%80%EB%A1%9C%EC%95%84%EB%A6%AC%EB%9E%91-Eb.pdf"
+  },
+  {
+   "name": "홀로아리랑 (2)",
+   "title": "홀로아리랑",
+   "key": "Eb",
+   "part": 2,
+   "file": "홀로아리랑-Eb-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 588631,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%99%80%EB%A1%9C%EC%95%84%EB%A6%AC%EB%9E%91-Eb-2.pdf"
+  },
+  {
+   "name": "홀로아리랑 (3)",
+   "title": "홀로아리랑",
+   "key": "Eb",
+   "part": 3,
+   "file": "홀로아리랑-Eb-3.pdf",
+   "type": "pdf",
+   "sizeBytes": 319225,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%99%80%EB%A1%9C%EC%95%84%EB%A6%AC%EB%9E%91-Eb-3.pdf"
+  },
+  {
+   "name": "황성옛터",
+   "title": "황성옛터",
+   "key": "Gm",
+   "part": 1,
+   "file": "황성옛터-Gm.pdf",
+   "type": "pdf",
+   "sizeBytes": 455879,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%99%A9%EC%84%B1%EC%98%9B%ED%84%B0-Gm.pdf"
+  },
+  {
+   "name": "황성옛터 (2)",
+   "title": "황성옛터",
+   "key": "Gm",
+   "part": 2,
+   "file": "황성옛터-Gm-2.pdf",
+   "type": "pdf",
+   "sizeBytes": 433121,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%99%A9%EC%84%B1%EC%98%9B%ED%84%B0-Gm-2.pdf"
+  },
+  {
+   "name": "황야의 무법자",
+   "title": "황야의 무법자",
+   "key": "Cm",
+   "part": 1,
+   "file": "황야의 무법자-Cm.pdf",
+   "type": "pdf",
+   "sizeBytes": 586864,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%99%A9%EC%95%BC%EC%9D%98%20%EB%AC%B4%EB%B2%95%EC%9E%90-Cm.pdf"
+  },
+  {
+   "name": "황야의 무법자 (2)",
+   "title": "황야의 무법자",
+   "key": "Cm",
+   "part": 2,
+   "file": "황야의 무법자-Cm-2.jpg",
+   "type": "image",
+   "sizeBytes": 272795,
+   "url": "https://raw.githubusercontent.com/lks87454255/jeongganview-staff/main/scores/%ED%99%A9%EC%95%BC%EC%9D%98%20%EB%AC%B4%EB%B2%95%EC%9E%90-Cm-2.jpg"
+  }
+ ]
+}
